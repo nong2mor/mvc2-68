@@ -1,0 +1,260 @@
+{
+    "student": [
+        {
+            "id": 6501,
+            "fname": "Alice",
+            "lname": "Johnson",
+            "dept": "CS",
+            "faculty": "Science",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        },
+        {
+            "id": 6502,
+            "fname": "Bob",
+            "lname": "Smith",
+            "dept": "IT",
+            "faculty": "Engineering",
+            "status": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32"
+        },
+        {
+            "id": 6503,
+            "fname": "Charlie",
+            "lname": "Brown",
+            "dept": "SE",
+            "faculty": "Engineering",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        },
+        {
+            "id": 6504,
+            "fname": "David",
+            "lname": "Wilson",
+            "dept": "CS",
+            "faculty": "Science",
+            "status": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32"
+        },
+        {
+            "id": 6505,
+            "fname": "Eva",
+            "lname": "Davis",
+            "dept": "IT",
+            "faculty": "Engineering",
+            "status": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32"
+        },
+        {
+            "id": 6506,
+            "fname": "Frank",
+            "lname": "Miller",
+            "dept": "CS",
+            "faculty": "Science",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        },
+        {
+            "id": 6507,
+            "fname": "Grace",
+            "lname": "Garcia",
+            "dept": "SE",
+            "faculty": "Engineering",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        },
+        {
+            "id": 6508,
+            "fname": "Hannah",
+            "lname": "Martinez",
+            "dept": "IT",
+            "faculty": "Engineering",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        },
+        {
+            "id": 6509,
+            "fname": "Ian",
+            "lname": "Rodriguez",
+            "dept": "CS",
+            "faculty": "Science",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        },
+        {
+            "id": 6510,
+            "fname": "Jane",
+            "lname": "Hernandez",
+            "dept": "SE",
+            "faculty": "Engineering",
+            "status": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+        }
+    ],
+    "credit": [
+        {
+            "id": 1001,
+            "student_id": 6501,
+            "total_credit": 90
+        },
+        {
+            "id": 1002,
+            "student_id": 6502,
+            "total_credit": 135
+        },
+        {
+            "id": 1003,
+            "student_id": 6503,
+            "total_credit": 75
+        },
+        {
+            "id": 1004,
+            "student_id": 6504,
+            "total_credit": 140
+        },
+        {
+            "id": 1005,
+            "student_id": 6505,
+            "total_credit": 135
+        },
+        {
+            "id": 1006,
+            "student_id": 6506,
+            "total_credit": 135
+        },
+        {
+            "id": 1007,
+            "student_id": 6507,
+            "total_credit": 137
+        },
+        {
+            "id": 1008,
+            "student_id": 6508,
+            "total_credit": 135
+        },
+        {
+            "id": 1009,
+            "student_id": 6509,
+            "total_credit": 95
+        },
+        {
+            "id": 1010,
+            "student_id": 6510,
+            "total_credit": 130
+        }
+    ],
+    "project": [
+        {
+            "id": 2001,
+            "student_id": 6501,
+            "project_name": "AI Research",
+            "status": "\u0e1c\u0e48\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27"
+        },
+        {
+            "id": 2002,
+            "student_id": 6502,
+            "project_name": "Web Development",
+            "status": "\u0e1c\u0e48\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27"
+        },
+        {
+            "id": 2003,
+            "student_id": 6503,
+            "project_name": "Mobile App",
+            "status": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19"
+        },
+        {
+            "id": 2004,
+            "student_id": 6504,
+            "project_name": "Data Analysis",
+            "status": "\u0e1c\u0e48\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27"
+        },
+        {
+            "id": 2005,
+            "student_id": 6505,
+            "project_name": "Network Security",
+            "status": "\u0e1c\u0e48\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27"
+        },
+        {
+            "id": 2006,
+            "student_id": 6506,
+            "project_name": "Cloud Computing",
+            "status": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19"
+        },
+        {
+            "id": 2007,
+            "student_id": 6507,
+            "project_name": "Game Development",
+            "status": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19"
+        },
+        {
+            "id": 2008,
+            "student_id": 6508,
+            "project_name": "Cybersecurity",
+            "status": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19"
+        },
+        {
+            "id": 2009,
+            "student_id": 6509,
+            "project_name": "Database Systems",
+            "status": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19"
+        },
+        {
+            "id": 2010,
+            "student_id": 6510,
+            "project_name": "Software Engineering",
+            "status": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19"
+        }
+    ],
+    "graduation_result": [
+        {
+            "student_id": "6504",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:03:53"
+        },
+        {
+            "student_id": "6504",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:04:32"
+        },
+        {
+            "student_id": "6502",
+            "result": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:04:48"
+        },
+        {
+            "student_id": "6505",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:07:42"
+        },
+        {
+            "student_id": "6501",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:21:08"
+        },
+        {
+            "student_id": "6505",
+            "result": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:21:17"
+        },
+        {
+            "student_id": "6505",
+            "result": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:21:22"
+        },
+        {
+            "student_id": "6505",
+            "result": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:24:15"
+        },
+        {
+            "student_id": "6504",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:40:50"
+        },
+        {
+            "student_id": "6504",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:40:56"
+        },
+        {
+            "student_id": "6504",
+            "result": "\u0e44\u0e21\u0e48\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:41:15"
+        },
+        {
+            "student_id": "6504",
+            "result": "\u0e08\u0e1a\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32",
+            "date": "2026-02-08 04:46:33"
+        }
+    ]
+}
